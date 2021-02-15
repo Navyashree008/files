@@ -1,0 +1,3 @@
+name = navya
+age = 18
+nationality = Indian
